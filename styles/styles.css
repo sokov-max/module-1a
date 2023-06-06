@@ -141,6 +141,7 @@ display: block;
 border: 1px solid #AD1818;
 border-radius: 5px;
 
+
 width: 1150px;
 height: 153px;
 
@@ -166,4 +167,61 @@ line-height: 41px;
 text-align: center;
 letter-spacing: -0.03em;
 color: #FFFFFF;
+}
+
+.block-4 {
+
+
+width: 1400px;
+height: 1844px;
+background: #121212;
+
+margin-top: 150px;
+}
+.block-4-1 {
+  margin-top: 34px;
+  margin-left: 125px;
+}
+.block-4-2 {
+  margin-top: 34px;
+  margin-left: 125px;
+}
+.block-4-3 {
+  margin-top: 34px;
+  margin-left: 125px;
+}
+.block-4-4 {
+  margin-top: 34px;
+  margin-left: 125px;
+}
+
+.uslugi {
+
+margin-top: 151px;
+margin-left: 125px;
+font-size: 18px;
+line-height: 25px;
+
+
+letter-spacing: -0.03em;
+
+
+color: #FFFFFF;
+
+}
+.name-uslugi {
+  margin-top: 15px;
+
+  font-size: 30px;
+  line-height: 41px;
+  letter-spacing: -0.03em;
+  
+  color: #FFFFFF;
+}
+.block-4-5 {
+ 
+}
+
+.block-4-5-text {
+  background-image: url(../resources/Krovat.png);
 }
