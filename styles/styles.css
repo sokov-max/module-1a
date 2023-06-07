@@ -236,3 +236,60 @@ letter-spacing: -0.03em;
 
 color: #FFFFFF;
 }
+.ihone {
+  margin-top: 150px;
+
+font-size: 360px;
+line-height: 60px;
+
+letter-spacing: -0.03em;
+
+color: #121212;
+
+opacity: 0.5;
+}
+.kontakt {
+margin-top: 12px;
+  font-size: 25px;
+line-height: 25px;
+
+letter-spacing: -0.03em;
+
+color: #121212;
+}
+
+.tel {
+  margin-top: 33px;
+  font-size: 60px;
+line-height: 60px;
+
+letter-spacing: -0.03em;
+
+color: #121212;
+}
+
+
+.emeil {
+  margin-top: 29px;
+  font-size: 60px;
+  line-height: 60px;
+  
+  letter-spacing: -0.03em;
+  
+  color: #121212;
+  
+  opacity: 0.5;
+}
+.tel :hover {
+  color: blue;
+}
+.emeil :hover {
+  color: blue;
+}
+
+.block-5 {
+  margin-top: 150px;
+  height: 229px;
+  background-color: #121212;
+  
+}
