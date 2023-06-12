@@ -236,17 +236,10 @@ letter-spacing: -0.03em;
 
 color: #FFFFFF;
 }
-.ihone {
+.iphone {
   margin-top: 150px;
 
-font-size: 360px;
-line-height: 60px;
 
-letter-spacing: -0.03em;
-
-color: #121212;
-
-opacity: 0.5;
 }
 .kontakt {
 margin-top: 12px;
@@ -255,38 +248,41 @@ line-height: 25px;
 
 letter-spacing: -0.03em;
 
-color: #121212;
+color:  rgba(18, 18, 18, 0.5);
+
+
+
+}
+.tel{
+  margin-top: 33px;
 }
 
-.tel {
-  margin-top: 33px;
+.tel a { 
+
   font-size: 60px;
 line-height: 60px;
 
 letter-spacing: -0.03em;
+text-decoration: none;
 
-color: #121212;
+color:  rgba(18, 18, 18, 0.5);
 }
 
-
-.emeil {
+.emeil{
   margin-top: 29px;
+}
+.emeil a {
+  text-decoration: none;
+border-bottom: 3px solid  rgba(18, 18, 18, 0.5);
+
+ 
   font-size: 60px;
   line-height: 60px;
   
   letter-spacing: -0.03em;
   
-  color: #121212;
-  
-  opacity: 0.5;
+  color:  rgba(18, 18, 18, 0.5);
 }
-.tel :hover {
-  color: blue;
-}
-.emeil :hover {
-  color: blue;
-}
-
 .block-5 {
   margin-top: 150px;
   height: 229px;
