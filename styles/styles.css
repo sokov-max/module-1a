@@ -95,8 +95,8 @@ border-radius: 5px;
 
 }
 .see:hover {
-  color: rgba(173, 24, 24, 1) ;
-  background-color: rgba(173, 24, 24, 1);
+  /* color: rgba(173, 24, 24, 1) ; */
+  background-color: rgba(173, 24, 24, 0.9);
 }
 
 
@@ -141,6 +141,7 @@ display: block;
 border: 1px solid #AD1818;
 border-radius: 5px;
 
+background-color: white;
 
 width: 1150px;
 height: 153px;
@@ -153,7 +154,6 @@ line-height: 41px;
 
 text-align: center;
 letter-spacing: -0.03em;
-
 
 color: #AD1818;
 
@@ -292,5 +292,22 @@ border-bottom: 3px solid  rgba(18, 18, 18, 0.5);
 header {
   margin-top: 32.83px;
   display: flex;
+  justify-content: space-between;
   
+}
+.header-link {
+  margin-left: 60px;
+  font-size: 18px;
+line-height: 25px;
+text-decoration: none;
+letter-spacing: -0.03em;
+text-transform: uppercase;
+
+color: #121212;
+
+}
+.header-link:hover {
+  color: rgba(18, 18, 18, 0.5);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.5);
+
 }
