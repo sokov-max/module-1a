@@ -283,12 +283,7 @@ border-bottom: 3px solid  rgba(18, 18, 18, 0.5);
   
   color:  rgba(18, 18, 18, 0.5);
 }
-.block-5 {
-  margin-top: 150px;
-  height: 229px;
-  background-color: #121212;
-  
-}
+
 header {
   margin-top: 32.83px;
   display: flex;
@@ -309,5 +304,38 @@ color: #121212;
 .header-link:hover {
   color: rgba(18, 18, 18, 0.5);
   border-bottom: 1px solid rgba(0, 0, 0, 0.5);
+
+}
+.footer {
+/* justify-content: center; */
+  /* display: flex; */
+  margin-top: 150px;
+  height: 229px;
+  background-color: #121212;
+}
+
+.footer-link {
+  margin-top: 60px;
+  margin-left: 56px;
+
+
+  font-size: 18px;
+line-height: 25px;
+letter-spacing: -0.03em;
+text-transform: uppercase;
+text-decoration: none;
+
+color: #FFFFFF;
+}
+.footer-link:hover {
+  color: rgba(255, 255, 255, 0.5);
+
+}
+.pfooter{
+  margin-bottom: 30px;
+font-size: 20px;
+line-height: 27px;
+letter-spacing: -0.03em;
+background: rgba(255, 255, 255, 0.5);
 
 }
